@@ -3,9 +3,9 @@
 ![Coding GIF](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
 ## Om meg
-- Masterstudent i [Datateknologi ved NTNU Trondheim](https://www.ntnu.no)
-- Spesialisering i **Visuell databehandling**
-- Leser for tiden *Clean Code* av Robert C. Martin
+- Interesse for programvareutvikling, skyteknologi og IT-sikkerhet.
+- Erfaring som IT-konsulent hos Digitaliseringsdirektoratet (Digdir).
+- Leser for tiden *Clean Code* av Robert C. Martin.
 
 ---
 
