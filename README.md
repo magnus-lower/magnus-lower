@@ -10,8 +10,10 @@
 ---
 
 ## GitHub-statistikk
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=magnus-lower&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=magnus-lower&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=magnus-lower&show_icons=true&include_all_commits=true&count_private=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnus-lower&layout=compact" height="165">
+</p>
 
 ---
 
