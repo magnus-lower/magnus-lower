@@ -6,6 +6,7 @@
 - Interesse for programvareutvikling, skyteknologi og IT-sikkerhet.
 - Erfaring som IT-konsulent hos Digitaliseringsdirektoratet (Digdir).
 - Leser for tiden *Clean Code* av Robert C. Martin.
+- Ønsker på sikt å utvikle **bærekraftige og brukervennlige digitale løsninger** — og ikke minst å lære noe nytt hver dag!
 
 ---
 
@@ -30,5 +31,3 @@
 </p>
 
 ---
-
-Ønsker å utvikle **smarte, sikre og brukervennlige systemer** — og ikke minst å lære noe nytt hver dag!
