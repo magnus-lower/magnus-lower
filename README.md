@@ -13,7 +13,7 @@
 
 ---
 
-## Har jobbet med mye forskjellig, og ønsker å kunne disse teknologiene bedre
+## Har jobbet med mye forskjellig, og ønsker å kunne disse teknologiene enda bedre
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
@@ -27,6 +27,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="Azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="50" alt="Terraform" />
+</p>
+
+---
+
+**Ta gjerne kontakt**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/magnus-løwer" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:magnus.lower@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="40" alt="Gmail" />
+  </a>
 </p>
 
 ---
