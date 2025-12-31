@@ -60,7 +60,7 @@ Min personlige nettside for å vise frem de to prosjektene over, med fokus på e
 
 &nbsp;
 
-## Ta gjerne kontakt
+## Ta gjerne kontakt med meg
 
 <p align="left">
   <a href="https://www.linkedin.com/in/magnus-løwer" target="_blank"
