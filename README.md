@@ -8,7 +8,7 @@
 - Interesse for programvareutvikling, skyteknologi og IT-sikkerhet.
 - Erfaring som IT-konsulent hos Digitaliseringsdirektoratet (Digdir) i Leikanger.
 - Frivillig i studentorganisasjonen Cogito på NTNU i Trondheim.
-- Leser for tiden *Clean Code* av Robert C. Martin.
+- Leser for tiden *Clean Code* av Robert C. Martin (som tar for seg fokus på lesbarhet og vedlikeholdbar kode).
 - Ønsker på sikt å utvikle **bærekraftige og brukervennlige digitale løsninger** — og ikke minst å lære noe nytt hver dag!
 
 ---
