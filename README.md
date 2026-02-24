@@ -14,7 +14,7 @@
 
 &nbsp;
 
-## Teknologier jeg bruker og ønsker å bli enda bedre i
+## Teknologier jeg har litt erfaring med og ønsker å bli enda bedre i
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
