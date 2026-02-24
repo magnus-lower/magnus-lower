@@ -9,7 +9,6 @@
 - Erfaring som IT-konsulent hos Digitaliseringsdirektoratet (Digdir) i Leikanger.
 - Frivillig i studentorganisasjonen Cogito på NTNU i Trondheim.
 - Leser for tiden *Clean Code* av Robert C. Martin (som tar for seg fokus på lesbarhet og vedlikeholdbar kode).
-- Ønsker på sikt å utvikle **bærekraftige og brukervennlige digitale løsninger** — og ikke minst å lære noe nytt hver dag!
 
 ---
 
@@ -35,7 +34,7 @@
 
 &nbsp;
 
-## Prosjekter jeg har jobbet med på fritiden
+## Prosjekter jeg har jobbet litt med på fritiden
 
 ### 1. E-commerce Platform (Spring Boot)
 En enkel demo av en nettbutikk med innlogging, produktoversikt, handlekurv og bestilling. Applikasjonen kjører på Render.  
