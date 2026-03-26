@@ -7,7 +7,7 @@
 ## Om meg
 - Interesse for programvareutvikling, skyteknologi og IT-sikkerhet.
 - Erfaring som IT-konsulent hos Digitaliseringsdirektoratet (Digdir) i Leikanger.
-- Frivillig i studentorganisasjonen Cogito på NTNU i Trondheim.
+- Frivillig i studentorganisasjonen Cogito på NTNU i Trondheim, hvor vi dette semesteret utforsker hvordan vi kan bruke maskinlæring til å analysere brukerdata fra TV2.no.
 - Leser for tiden *Clean Code* av Robert C. Martin (som tar for seg fokus på lesbarhet og vedlikeholdbar kode).
 
 ---
