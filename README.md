@@ -1,20 +1,20 @@
-# Hei, jeg er Magnus Løwer!
+# Hi, I'm Magnus Løwer!
 
 ![Coding GIF](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
 &nbsp;
 
-## Om meg
-- Interesse for programvareutvikling, skyteknologi og IT-sikkerhet.
-- Erfaring som IT-konsulent hos Digitaliseringsdirektoratet (Digdir) i Leikanger.
-- Frivillig i studentorganisasjonen Cogito på NTNU i Trondheim, hvor vi dette semesteret utforsker hvordan vi kan bruke maskinlæring til å analysere brukerdata fra TV2.no.
-- Leser for tiden *Clean Code* av Robert C. Martin, som tar for seg fokus på lesbarhet og vedlikeholdbar kode.
+## About Me
+- Interested in software development, cloud technology, and IT security.
+- Experience from summer internships at the Norwegian Digitalisation Agency (Digdir) in Leikanger and Sopra Steria in Oslo.
+- Volunteer in the student organisation Cogito at NTNU in Trondheim.
+- Currently reading *Clean Code* by Robert C. Martin, which focuses on how to write readable and maintainable code.
 
 ---
 
 &nbsp;
 
-## Teknologier jeg har litt erfaring med og ønsker å bli enda bedre i
+## Technologies I Have Some Experience With and Want to Learn More About
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
@@ -34,32 +34,32 @@
 
 &nbsp;
 
-## Prosjekter jeg har jobbet litt med på fritiden
+## Personal Projects
 
 ### 1. E-commerce Platform (Spring Boot)
-En enkel demo av en nettbutikk med innlogging, produktoversikt, handlekurv og bestilling. Applikasjonen kjører på Render.  
-**Nettside:** https://demo-store-k4g7.onrender.com  
-**Repo:** https://github.com/magnus-lower/demo-store
+A simple e-commerce demo featuring user authentication, product listings, a shopping cart, and ordering. The application is deployed on Render.  
+**Website:** https://demo-store-k4g7.onrender.com  
+**Repository:** https://github.com/magnus-lower/demo-store
 
 ---
 
 ### 2. Weather Dashboard (Flask)
-En webapplikasjon som viser værdata som er hentet fra OpenWeatherMap sitt offentlig API. Applikasjonen kjører på Fly.io og er satt opp med Docker og Gunicorn.  
-**Nettside:** https://weather-dashboard-still-leaf-2476.fly.dev  
-**Repo:** https://github.com/magnus-lower/weather-dashboard
+A web application that displays weather data retrieved from the public OpenWeatherMap API. The application is deployed on Fly.io and uses Docker and Gunicorn.  
+**Website:** https://weather-dashboard-still-leaf-2476.fly.dev  
+**Repository:** https://github.com/magnus-lower/weather-dashboard
 
 ---
 
-### 3. Portfolio-nettside (HTML/CSS/JavaScript)
-Min personlige nettside for å vise frem de to prosjektene over, med fokus på enkel og responsiv design. Nettsiden kjører på Vercel.  
-**Nettside:** https://magnuslow.com  
-**Repo:** https://github.com/magnus-lower/my-website
+### 3. Portfolio Website (HTML/CSS/JavaScript)
+My personal website for showcasing the two projects above, with a focus on simple and responsive design. The website is deployed on Vercel.  
+**Website:** https://magnuslow.com  
+**Repository:** https://github.com/magnus-lower/my-website
 
 ---
 
 &nbsp;
 
-## Ta gjerne kontakt med meg!
+## Feel Free to Contact Me!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/magnus-løwer" target="_blank"
